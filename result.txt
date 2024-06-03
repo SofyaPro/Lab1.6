@@ -1,0 +1,10 @@
+	-r, --reverse
+		reverse order while sorting
+
+	-R, --recursive
+		list subdirectories recursively
+
+	-s, --size
+		print the allocated size of each file, in blocks
+	
+	-S	sort by file size, largest first
